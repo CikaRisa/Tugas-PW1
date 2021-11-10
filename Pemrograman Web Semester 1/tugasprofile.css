@@ -1,0 +1,45 @@
+.profilname {
+    color: aquamarine;
+    flex: 2;
+}
+.chan {
+    float: left;
+}
+.tambah {
+    display: flex;
+    flex: 2;
+}
+.satu {
+    margin: 20px;
+    width: 100px;
+}
+.head {
+    margin-right: 400px;
+}
+.gambar {
+    display: flex;
+    margin-left: 0px;
+    padding: 20px;
+    justify-content: space-between;
+}
+.cape {
+    text-align: right;
+    justify-content: space-between;
+}
+.moomin {
+    margin: 50px;
+    width: 100px;
+}
+.asteroid {
+    display: flex;
+    justify-content: space-evenly;
+}
+.tulisan {
+
+}
+.gatau {
+    margin: 50px;
+}
+.mimi {
+    margin: 50px;
+}
